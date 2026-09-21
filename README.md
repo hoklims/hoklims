@@ -2,7 +2,9 @@
 
 **Software engineer · Reliable AI-assisted development**
 
-I build tools that help developers understand changes, test their assumptions and make software decisions they can verify.
+**An AI-generated patch can pass the tests and still miss the bug.**
+
+I build tools to help developers understand what a change affects, check whether regression tests catch their target bugs, and review the evidence behind engineering decisions.
 
 ## Selected work
 
