@@ -2,9 +2,9 @@
 
 **Software engineer · Reliable AI-assisted development**
 
-**An AI-generated patch can pass the tests and still miss the bug.**
+**AI coding agents can write the code, the tests and the explanation. If all three share the same wrong assumption, passing tests can create false confidence.**
 
-I build tools to help developers understand what a change affects, check whether regression tests catch their target bugs, and review the evidence behind engineering decisions.
+I build tools to record decisions before outcomes are known, trace what code changes put at risk, and check that regression tests distinguish the intended bug from harmless changes.
 
 ## Selected work
 
